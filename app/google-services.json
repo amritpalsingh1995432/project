@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107455120547",
+    "firebase_url": "https://jobportal-d5691.firebaseio.com",
+    "project_id": "jobportal-d5691",
+    "storage_bucket": "jobportal-d5691.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107455120547:android:dd55bba470a6c994ff2b16",
+        "android_client_info": {
+          "package_name": "com.example.user.jobsportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107455120547-5dan8dg1m3k3ukcddl1riviqmd5vhdeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQOx6beNbkztUZ9c-tizEyzB0_pJJQLQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107455120547-5dan8dg1m3k3ukcddl1riviqmd5vhdeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
